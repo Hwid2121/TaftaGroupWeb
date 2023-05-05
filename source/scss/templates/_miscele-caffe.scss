@@ -1,0 +1,27 @@
+.miscela-card {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+
+
+.mph {
+  font-weight: bold;
+  font-size: 1.2em;
+  color: #000;
+}
+
+.image-to-big {
+  width: 75%;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  .miscela-card {
+  //  padding-top: 20px;
+  //  padding-bottom: 20px;
+    border: 1px solid #e5e5e5;
+  //  align-content: center;
+  }
+
+}

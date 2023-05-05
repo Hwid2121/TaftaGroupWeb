@@ -1,0 +1,48 @@
+<!--
+Fixed Navigation
+==================================== -->
+<header class="navigation fixed-top">
+  <div class="container  nav-text">
+    <!-- main nav -->
+    <nav class=" navbar navbar-expand-lg navbar-light px-0">
+      <!-- logo -->
+      <a class="navbar-brand logo" href="index.html">
+        <img loading="lazy" class="logo-default nav-logo2" src="../../images/LogoCENTOCINQUEnero.png" alt="logo" />
+        <img loading="lazy" class="logo-white nav-logo" src="../../images/logoCENTOCINQUEbianco2.png"  alt="logo TAFTA GROUP SRL " />
+        <img loading="lazy" class="logo-dark nav-logo2" src="../../images/logoTAFTAGROUPMONDOneroTransparent.png"  alt="logo TAFTA GROUP SRL " />
+
+      </a>
+      <!-- /logo -->
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+        aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse " id="navigation">
+        <ul class="navbar-nav ml-auto text-center">
+          <li class="nav-item @@if( active === 'home' ){active}">
+            <a class="nav-link" href="index.html">Home</a>
+          </li>
+
+          <li class="nav-item @@if( active==='Linea Bar' ){ active }">
+            <a class="nav-link" href="../../linea-bar.html">Linea Bar</a>
+          </li>
+          <li class="nav-item @@if( active==='Linea Casa' ){ active }">
+            <a class="nav-link" href="../../linea-casa.html">Linea Casa</a>
+          </li>
+<!--          TODO Future implementation-->
+<!--          <li class="nav-item @@if( active==='pricing' ){ active }">-->
+<!--            <a class="nav-link" href="pricing.html">Pricing</a>-->
+<!--          </li>-->
+          <li class="nav-item @@if( active==='contact' ){ active }">
+            <a class="nav-link" href="contact.html">Contatti</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <!-- /main nav -->
+  </div>
+</header>
+<!--
+End Fixed Navigation
+==================================== -->

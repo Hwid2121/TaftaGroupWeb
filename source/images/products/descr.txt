@@ -1,0 +1,154 @@
+/miscelaAmabile.png
+Miscela Amabile:
+Per i consumatori che cercano il giusto compromesso al proprio palato, l'aroma equilibrato e amabile caratterizza questa miscela creata appositamente per ottenere il classico "ESPRESSO ITALIANO"
+
+/miscelaIntenso.png
+Miscela Intenso:
+Per i consumatori che apprezzano un caffe' un po' piu' forte e deciso tipico della tradizione italiana, la miscela intenso dal gusto pieno e corposo e' l'ideale dal gusto pieno e corposo e' l'ideale per ottenere un risultato in tazza dalla creama densa e invitante.
+
+
+/miscelaDeca.png
+/miscelaDecaGrigio.png
+Miscela Deca:
+La nostra miscela di caffè in grani decaffeinato offre il gusto e l'aroma distintivi del caffè italiano senza la caffeina. Lavoriamo con cura per selezionare i chicchi più pregiati, torrefarli con maestria e sottoporli a un processo delicato di decaffeinizzazione. Il risultato è una bevanda equilibrata e gustosa che puoi goderti in qualsiasi momento della giornata.
+
+
+/miscelaEmozione.png
+Miscela Emozione:
+Speciality Coffee Espresso unico e aromatico, dolce e delicato al palato con un retrogusto finale leggermente e piacevolmente acido tipico di chi preferisce la tipologia "ARABICA".
+
+/bustaOrzo.png
+busta Orzo 500gr:
+
+
+
+
+/bustaGinseng.png
+Busta Ginseng 500gr:
+
+
+
+
+
+/dekCapsule1.png
+/dekCapsule2.png
+/dekCapsule3.png
+Scatola Capsule DEK:
+
+
+
+
+
+/espressoCapsule1.png
+/espressoCapsule2.png
+Scatola di capsule espresso:
+
+
+
+/macchinaCapsuleEspresso.png
+Macchina per capsule con espresso:
+
+
+
+/macchinaCapsuleMusetto1.png
+/macchinaCapsuleMusetto2.png
+Macchina per capsule Musetto:
+
+
+
+/scatolaGinseng1.png
+/scatolaGinseng2.png
+Scatola solubile Ginseng:
+
+
+
+/scatolaOrzo1.png
+/scatolaOrzo2.png
+Scatola solubile Orzo:
+
+
+
+/scatolaNocciola1.png
+/scatolaNocciola2.png
+Scatola solubile Nocciola:
+
+
+
+/capsuleGinseng1.png
+/capsuleGinseng2.png
+Scatola con capsule Ginseng:
+
+
+
+
+/capsuleOrzo1.png
+/capsuleOrzo2.png
+Scatola con capsule Orzo:
+
+
+
+/tazzinaCaffeino.png
+Tazza vetro caffeino con logo:
+
+
+
+/tazzinacaffeBianca.png
+Tazzina caffe bianca con logo:
+
+
+/tazzinaGinseng.png
+Tazzina vetro Ginseng con logo:
+
+
+/tazzaCappuccioBianca.png
+Tazza per cappuccino Bianca con logo:
+
+
+/bustinaZuccheroGrezzo.png
+Bustine grezzo fronte e retro:
+
+
+/bustinaZuccheroBianco.png
+Bustine bianco fronte e retro:
+
+
+/portatovaglioliDoppio.png
+Portatovaglioli con zucchero/carta grezzo e bianco:
+
+
+/scatolaDolcificante.png
+Scatola di dolcificante:
+#
+
+
+/ragazzaCaffe1.jpg
+Ragazza che beve caffe al bancone
+
+/ragazzaCaffe2.jpg
+Ragazza che beve caffe al tavolo ridendo.
+
+/ragazzaCaffe3.jpg
+Ragazza che beve caffe al tavolo non ridendo.
+
+/baristaCaffe1.jpg
+Barista che fa il caffe.
+
+/prodottiVari1.jpg
+Prodotti vari su bancone. Tazzine e portatovaglioli.
+
+
+
+/tazzaSuSfondo.jpeg
+Tazza du caffe su sfondo bianco con chicchi
+
+
+/logoCENTOCINQUEnero.png
+logo centocinque nero
+
+/logoTAFTAGROUPMONDOnero.png
+logo tafta group con mondo sotto nero
+
+/logoTAFTAGROUPnero.png
+logo tafta group nero
+
+
