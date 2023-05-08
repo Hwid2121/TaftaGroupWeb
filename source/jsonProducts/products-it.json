@@ -1,0 +1,153 @@
+[
+  {
+    "id": 1,
+    "title" : "Tazzine Caffe",
+    "description" : "Tazzine Caffe del bar. <br> Vendibili a set da 6 e 12.",
+    "img" : "../../images/products/tazzinaCaffeBianca.png",
+    "category" : "accessori"
+  },
+  {
+    "id": 2,
+    "title" : "Tazze da Cappuccio",
+    "description": "Tazze Cappuccino del bar. <br> Vendibili a set da 6 e 12.",
+    "img" : "../../images/products/tazzaCappuccinoBianca.png",
+    "category" : "accessori"
+  },
+  {
+    "id":3,
+    "title" : "Tazzina in vetro Caffeino",
+    "description": "Tazzina in vetro Caffeino del bar. <br> Vendibili a set da 6 e 12.",
+    "img" : "../../images/products/tazzinaCaffeino.png",
+    "category" : "accessori"
+  },
+  {
+    "id": 4,
+    "title" : "Tazzina in vetro Ginseng",
+    "description": "Tazzina in vetro Ginseng del bar. <br> Vendibili a set da 6 e 12.",
+    "img" : "../../images/products/tazzinaGinseng.png",
+    "category" : "accessori"
+  },
+  {
+    "id": 5,
+    "title" : "Portatovaglioli e Portazucchero",
+    "description": "Portatovaglioli con portazucchero modulabile. Tovaglioli disponibili in bianco o in marrone con materiale riciclato.",
+    "img" : "../../images/products/portatovaglioliDoppio.png",
+    "category" : "accessori"
+  },
+
+
+
+  {
+    "id": 6,
+    "title" : "Capsule Espresso",
+    "description": "Scatola di Capsule Espresso - 50 pezzi - Tafta Coffee Espresso",
+    "img": "../../images/products/espressoCapsule1.png",
+    "category" : "capsule"
+  },
+  {
+    "id":7,
+    "title" : "Capsule Dek",
+    "description": "Scatola di Capsule Dek - 50 pezzi - Tafta Coffee Dek",
+    "img": "../../images/products/dekCapsule2.png",
+    "category" : "capsule"
+  },
+
+
+
+
+  {
+    "id":8,
+    "title" : "Macchina Capsule Musetto",
+    "description": "Macchina a capsule Musetto, compatibile con le capsule FAP, per un espresso cremoso e dal gusto intenso.",
+    "img" : "../../images/products/macchinaCapsuleMusetto2.png",
+    "category" : "macchine"
+  },
+  {
+    "id":9,
+    "title" : "Macchina Capsule Espresso",
+    "description": "Macchina a capsule Espresso, compatibile con le capsule FAP, per un espresso cremoso e dal gusto intenso.",
+    "img" : "../../images/products/macchinaCapsuleEspresso.png",
+    "category" : "macchine"
+
+  },
+
+
+  {
+    "id": 10,
+    "title" : "Amabile",
+    "description": "Per i consumatori che cercano il giusto compromesso al proprio palato, l'aroma equilibrato e amabile caratterizza questa miscela creata appositamente per ottenere il classico <span class='mph'>'ESPRESSO ITALIANO' </span>",
+    "img" : "../../images/products/miscelaAmabile.png",
+    "category" : "miscele-caffe"
+  },
+  {
+    "id": 11,
+    "title" : "Intenso",
+    "description" : "Per i consumatori che apprezzano un caffe' un po' piu' forte e deciso tipico della tradizione italiana, la miscela intenso dal gusto pieno e corposo è l'ideale dal gusto pieno e corposo è l'ideale per ottenere un risultato in tazza dalla crema densa e invitante.",
+    "img" : "../../images/products/miscelaIntenso.png",
+    "category" : "miscele-caffe"
+  },
+  {
+    "id":12,
+    "title" : "Emozione",
+    "description": "Speciality Coffee Espresso unico e aromatico, dolce e delicato al palato con un retrogusto finale leggermente e piacevolmente acido tipico di chi preferisce la tipologia <span class='mph'>'ARABICA'.</span>",
+    "img" : "../../images/products/miscelaEmozione.png",
+    "category" : "miscele-caffe"
+  },
+  {
+    "id":13,
+    "title" : "Deca",
+    "description": "La nostra miscela di caffè in grani decaffeinato offre il gusto e l'aroma distintivi del caffè italiano senza la caffeina. Lavoriamo con cura per selezionare i chicchi più pregiati, torrefarli con maestria e sottoporli a un processo delicato di decaffeinizzazione. Il risultato è una bevanda equilibrata e gustosa che puoi goderti in qualsiasi momento della giornata.",
+    "img" : "../../images/products/miscelaDeca.png",
+    "category" : "miscele-caffe"
+  },
+
+
+
+  {
+    "id":14,
+    "title" : "Busta Ginseng",
+    "description": "Busta Ginseng Solubile 1000gr di Boston",
+    "img" : "../../images/products/bustaGinseng.png",
+    "category" : "solubili"
+  },
+  {
+    "id":15,
+    "title" : "Busta Orzo",
+    "description":"Busta Orzo Solubile Barley 200gr di Boston",
+    "img" : "../../images/products/bustaOrzo.png",
+    "category" : "solubili"
+  },
+  {
+    "id":16,
+    "title" : "Ginseng in Capsule",
+    "description":"Scatola di Ginseng in capsule - 50 pezzi",
+    "img" : "../../images/products/capsuleGinseng2.png",
+    "category" : "solubili"
+  },
+  {
+    "id":17,
+    "title" : "Orzo in Capsule",
+    "description" : " Scatola di Orzo in capsule - 50 pezzi",
+    "img" : "../../images/products/capsuleOrzo2.png",
+    "category" : "solubili"
+  },
+  {
+    "id":18,
+    "title" : "Capsule Nocciola",
+    "description":"Scatola di Capsule Nocciola Dolce Pausa - 50 pezzi",
+    "img" : "../../images/products/scatolaNocciola2.png",
+    "category" : "solubili"
+  },
+  {
+    "id":19,
+    "title":"Capsule Orzo",
+    "description":"catola di Capsule Orzo Dolce Pausa - 50 pezzi",
+    "img" : "../../images/products/scatolaOrzo2.png",
+    "category" : "solubili"
+  }
+
+
+
+
+
+]
