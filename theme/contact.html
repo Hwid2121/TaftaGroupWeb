@@ -200,7 +200,9 @@ End Fixed Navigation
  </div> -->
 
 
- <form name="contact" method="POST" action="/source/thanks.html" netlify>
+ <form name="contact" method="POST" action="/source/thanks.html" netlify
+ data-netlify-recaptcha="true"
+ >
   <p>
     <label>Your Name: <input type="text" name="name" /></label>
   </p>
@@ -216,6 +218,7 @@ End Fixed Navigation
   <p>
     <label>Message: <textarea name="message"></textarea></label>
   </p>
+  <div data-netlify-recaptcha="true"></div>
   <p>
     <button type="submit">Send</button>
   </p>
