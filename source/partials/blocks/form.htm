@@ -1,31 +1,35 @@
-<!-- Contact Form
+<!-- Contact Form -->
 <div class="contact-form col-md-6 ">
-  <form id="contact-form" method="post" action="/source/" name="contact" role="form "data-netlify="true">
-     <div class="form-group mb-4">
-       <input type="text" placeholder="Il tuo nome" class="form-control" name="name" id="name" required>
+  <form id="contact-form" name="contact" method="POST" action="/source/thanks.html" netlify
+  data-netlify-recaptcha="true" >
+     <div class="form-group mb-4" >
+      <label >Your Name: </label>
+       <input type="text" placeholder="Il tuo nome"  class="form-control" id="name" name="name" />
      </div>
 
      <div class="form-group mb-4">
-       <input type="email" placeholder="La tua email" class="form-control" name="email" id="email" required>
+          <label>Your Email:</label>
+          <input type="email" placeholder="La tua email"  class="form-control" name="email" id="email"   />
      </div>
 
      <div class="form-group mb-4">
-       <input type="text" placeholder="Titolo" class="form-control" name="subject" id="subject" required>
-     </div>
-
-     <div class="form-group mb-4">
-       <textarea rows="6" placeholder="Messaggio" class="form-control" name="message" id="message" required></textarea>
+          <label>Message: </label>
+          <textarea  placeholder="Messaggio" class="form-control" name="message" id="message"></textarea>
      </div>
      <div id="cf-submit">
        <button type="submit"  class="btn btn-transparent" id="contact-submit">Send</button>
 
      </div>
 
+     <div data-netlify-recaptcha="true"></div>
    </form>
- </div> -->
+ </div>
 
+ <!-- <input type="text" placeholder="Il tuo nome" class="form-control" name="name" id="name" required> -->
+ <!-- <input type="email" placeholder="La tua email" class="form-control" name="email" id="email" required> -->
+<!--  -->
 
- <form name="contact" method="POST" action="/source/thanks.html" netlify
+ <!-- <form name="contact" method="POST" action="/source/thanks.html" netlify
  data-netlify-recaptcha="true"
  >
   <p>
@@ -47,4 +51,4 @@
   <p>
     <button type="submit">Send</button>
   </p>
-</form>
+</form> -->
