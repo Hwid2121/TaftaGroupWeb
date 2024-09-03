@@ -1,6 +1,6 @@
 <!-- Contact Form -->
 <div class="contact-form col-md-6 ">
-  <form id="contact-form" method="post" action="" name="contact-form" role="form">
+  <form id="contact-form" method="post" action="" name="contact-form" role="form "data-netlify="true">
      <div class="form-group mb-4">
        <input type="text" placeholder="Il tuo nome" class="form-control" name="name" id="name" required>
      </div>
@@ -17,7 +17,9 @@
        <textarea rows="6" placeholder="Messaggio" class="form-control" name="message" id="message" required></textarea>
      </div>
      <div id="cf-submit">
-       <input type="" id="contact-submit" class="btn btn-transparent" value="Submit">
+       <!-- <input type="submit" id="contact-submit" class="btn btn-transparent" value="Submit"> -->
+       <button type="submit"  class="btn btn-transparent" id="contact-submit">Send</button>
+
      </div>
 
    </form>

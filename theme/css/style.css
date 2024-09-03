@@ -682,7 +682,7 @@ a:focus, a:hover {
 }
 @media (max-width: 768px) {
   .hero-slider .prevArrow,
-.hero-slider .nextArrow {
+  .hero-slider .nextArrow {
     display: none !important;
   }
 }
@@ -2099,7 +2099,7 @@ a:focus, a:hover {
   }
   /* footer */
   .social-icon ul li,
-.social-icon ul li:first-child {
+  .social-icon ul li:first-child {
     margin: 15px;
   }
   .social-icon ul li a {
