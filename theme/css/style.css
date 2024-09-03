@@ -647,7 +647,7 @@ a:focus, a:hover {
 }
 .slider-item h1 {
   color: #fff;
-  font-size: 60px;
+  font-size: 8vh;
   line-height: 70px;
   letter-spacing: 2px;
   font-weight: 700;
@@ -669,6 +669,7 @@ a:focus, a:hover {
 .slider-item p {
   color: #fff;
   margin-bottom: 20px;
+  font-size: 2vh;
 }
 
 .hero-slider {
@@ -839,19 +840,22 @@ a:focus, a:hover {
  Call To Action 1
 ==================================================================*/
 .call-to-action {
-  padding: 100px 0;
+  padding: 60px 0;
   background: url("../../images/about3.jpg");
   background-size: cover;
   color: #fff;
 }
 .call-to-action h2 {
   line-height: 1.5;
+  font-size: 4vh;
 }
 .call-to-action p {
   color: #fff;
+  font-size: 2vh;
 }
 .call-to-action .btn-main {
   margin-top: 20px;
+  font-size: 2vh;
 }
 
 /*=================================================================
@@ -865,12 +869,15 @@ a:focus, a:hover {
 }
 .call-to-action-2 h2 {
   line-height: 1.5;
+  font-size: 5vh;
 }
 .call-to-action-2 p {
   color: #fff;
+  font-size: 2vh;
 }
 .call-to-action-2 .btn-main {
   margin-top: 20px;
+  font-size: 3vh;
 }
 
 /*=================================================================
@@ -1180,6 +1187,16 @@ a:focus, a:hover {
 /*=================================================================
   Services section 2
 ==================================================================*/
+.service-2 h2 {
+  color: #333;
+  font-size: 3vh;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.service-2 p {
+  font-size: 2vh;
+  color: #666;
+}
 .service-2 .service-item {
   border: 1px solid #eee;
   margin-bottom: 30px;
@@ -1206,6 +1223,16 @@ a:focus, a:hover {
   margin-bottom: 20px;
   width: 55px;
   transition: all 0.3s ease 0s;
+}
+.service-2 .service-item h4 {
+  color: #333;
+  font-size: 2vh;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.service-2 .service-item p {
+  font-size: 1.5vh;
+  color: #666;
 }
 
 /*=================================================================
