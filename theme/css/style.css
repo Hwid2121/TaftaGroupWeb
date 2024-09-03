@@ -544,9 +544,10 @@ a:focus, a:hover {
 }
 
 .nav-text a {
-  font-size: 1rem !important;
   letter-spacing: 1px !important;
   transition: 0.2s ease-in-out 0s !important;
+  font-size: 2vh !important;
+  font-weight: bold;
 }
 
 .hero-area {
